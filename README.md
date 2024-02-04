@@ -1,4 +1,4 @@
-My team, with six members, developed a stadium matching system, Jöinee, for the course final project. It is a two-sided platform to match stadium/court owners with the public who want to play sports. 
+In a team of six, we developed a stadium matching system, Jöinee, for the course final project. It is a two-sided platform to match stadium/court owners with the public who want to play sports. 
 As the project manager, product manager and UI/UX team leader of the project, my tasks include
 - Define the product and make sure the team brings it to life in time with great quality and users' requirements met.
   - If you would like to check out the repositories, issues, and progress we've made, please visit [Jöinee-IM](https://github.com/Joinee-IM)
